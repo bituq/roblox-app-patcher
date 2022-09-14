@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "roblox-app-remover"
+name = "roblox-app-patcher"
 version = "0.1.0"
 dependencies = [
  "winreg",
